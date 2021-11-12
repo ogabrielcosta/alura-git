@@ -1,0 +1,35 @@
+* [33mcommit 09908fe991d4dd134a2a3d060243bb9616581d60[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mtitulo[m[33m)[m
+[31m|[m Author: Gabriel Costa <gabriel.andrade@avitaseg.com.br>
+[31m|[m Date:   Fri Nov 12 15:16:14 2021 -0300
+[31m|[m 
+[31m|[m     mudando titulo
+[31m|[m 
+* [33mcommit 2a4ff8988ade596e82e35bd9c491a74373a0a5cb[m[33m ([m[1;31mserver/master[m[33m, [m[1;31morigin/master[m[33m)[m
+[31m|[m Author: Gabriel Costa <gabriel.andrade@avitaseg.com.br>
+[31m|[m Date:   Wed Nov 3 15:02:44 2021 -0300
+[31m|[m 
+[31m|[m     teste
+[31m|[m 
+* [33mcommit e50c0f8b4cf5324ca7c46a5f6b1d74743fffb170[m
+[31m|[m Author: Gabriel Costa <gabriel.andrade@avitaseg.com.br>
+[31m|[m Date:   Thu Oct 21 13:58:00 2021 -0300
+[31m|[m 
+[31m|[m     ajustando index.html
+[31m|[m 
+* [33mcommit 8c28f2c09fe74b5a66a6c7c41188761222299bb6[m
+[31m|[m Author: Gabriel Costa <gabriel.andrade@avitaseg.com.br>
+[31m|[m Date:   Thu Oct 21 13:47:53 2021 -0300
+[31m|[m 
+[31m|[m     Inserindo o arquivo .gitignore
+[31m|[m 
+* [33mcommit fcdd8ceb16694a064ed129d5b52a618aa17f672e[m
+[31m|[m Author: Gabriel Costa <gabriel.andrade@avitaseg.com.br>
+[31m|[m Date:   Thu Oct 21 12:07:59 2021 -0300
+[31m|[m 
+[31m|[m     Inserindo o acento no curso de integração contínua
+[31m|[m 
+* [33mcommit 0b70f7c870ec6d553d36ba50fd549788c9327d72[m
+  Author: Gabriel Costa <gabriel.andrade@avitaseg.com.br>
+  Date:   Thu Oct 21 12:05:24 2021 -0300
+  
+      Criando arquivo index.html com lista de cursos
